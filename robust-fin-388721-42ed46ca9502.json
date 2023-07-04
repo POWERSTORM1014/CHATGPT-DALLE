@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "robust-fin-388721",
+  "private_key_id": "42ed46ca9502bb1f33ebaaa3942dbb1a9f4d4db1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC2EZd3WF5mTIsX\nyNA8lPlGeAYJ76kjiT8xS1vDjsv0n616aFOOKKmqml3YfKx2P+VcSAkyPxzP1i77\neMlJfsY36SlAjc0e9z06cU6FWb431GpnTiX5vZWDkxxRuiepAUg8nxChNssNYcqE\nooKGvzeJ0+9iwoluPnWVTFa6GFpJALTO1rXAqShGXnPwbOXQFO6RmIOSaqd+b/g9\nY/noQ9JMESHGIz+9akTYZYzqvxpqbyLTUDoWmeg/ASD9w8LgSO6T5Xl356N5ZiPW\na/8YsrNVXWuVGvHowQz8EkOXv8c/rsalkCBnKsiJ/jngEveQ1M8fkgAZtfcLXBdJ\naPtpzHhjAgMBAAECggEADL0vXWTb+glqBAiDdXGw/VrBhWl06q0cNE1DBuxTXfLc\nNv/ctMookOzLGy4h/QYcfLf3mMHsuKgSUnsRjmhl4xyXy9IAI6YF7TRnW5I7anmc\n1kyUAKTgtLuS1C8TvlH+JWu1xKnqTC3m9x/NxTLU5npjOgRFjGanYIJeYRf6HThm\ns/YHlW/Yng/QEYQkKVyX9b6XKYIVvviH+WF2AXhxGdKyPMZT0gCNvoI8K1glapM3\nujS18ZL3xfHxH1Mn2wcKfTvAMK8TyMpqH/stF+pECCkQR+V1yyzqZ4FXrm5wHnds\n9F9CcJoOQAUx79cN6gVqZN+17J70wE9F1RM1aqdCLQKBgQDfC3DRq4NopmUQv673\ncNw26K2hN8s0OqxqC79k5xLrycCyNJlq4lBHXF4EM06RpeFAgMumfV5MOWgsUX/M\n2vH2PA3FVCA8ZFTfmREKluS0eBj6IEEXGCYsWQTNowyasGEkHIn8jX3QgnY9ytqs\nhbbB1RrD0RENXmxhYQj6yxnD3QKBgQDQ+EEZAnLtjHdUGTLacO7IcfrUDnWe61EO\nEr7iKbmlwvJVhrtmzNgu1UWa4lqUSLEmjHFrTXqevAEEAsFz4A1jPR2MiIinUei2\nTWrAFE48XPgLrxge1Xpv1y6rCHv8MKTmEhkarJ9iCve6JdtvzVM7o9c+RmrxQNoK\nlGEXbvSJPwKBgQDOd4616Ci6pN0FRgs27nhLM9QWWsl1zaJwf/Np+iUfsyD3VY12\nzYw2oqA9Dyl51a3PwenCcmbp9HIkJEVDYqF8qFavBZLZlJ6kZNLLlKadEFc+osDe\nGfKsNrMlj/tI7mDdxrVM3cVLUJkX1kHaVeS5RQWDonJAh9mXwvVHAt8U2QKBgEo+\nKUKtcA+dvDeQzFR3kx58AFWe3YMcr6uEVXUcxexymo5wU9xuItBgzV391ZihSu8b\nLqCk4k/LE8FNCVYV4CvF5t2rFIH9w+QhFTAxBqrDjQz5pGQwDFP364iwdvxee/eR\nroGfmvDGXMUx9gh+tneV+j8R3aThGZZwqR4eOZsZAoGAXX7B3/XbnvEcg/u4nkRN\n18VN1A3ah4bBLYF4wfwWEtnFGkp9XiFaJc4E7/7QOL/fq4wGa/Pm5K1HonRBtdvT\nPaf3WMe2zRkGkDHJGDdTpmUah+1OwKNSHVfrYr3vSFqOLxRJxpt70w+TwRsKuBlv\nBA0RGPX7XObhMSsxlTOQFyU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatgpt-dalle@robust-fin-388721.iam.gserviceaccount.com",
+  "client_id": "105417197406997226143",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatgpt-dalle%40robust-fin-388721.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
